@@ -1,0 +1,7 @@
+[project]
+name = "effective-python"
+version = "0.1.0"
+description = "Examples and tests from Effective Python by Brett Slatkin"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
