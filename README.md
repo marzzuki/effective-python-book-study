@@ -21,4 +21,7 @@ python3 stream_encryption_hashing.py
 
 "Effective Python" provides practical advice and best practices for writing robust, maintainable, and efficient Python code. It covers a wide range of topics, from basic idioms to advanced concurrency and metaprogramming.
 
-**Author:** Brett Slatkin
+**Author:** Brett Slatkin ([https://effectivepython.com/](https://effectivepython.com/))
+
+This repository is based on the examples from the official "Effective Python" book repository:
+[https://github.com/bslatkin/effectivepython](https://github.com/bslatkin/effectivepython/tree/main)
